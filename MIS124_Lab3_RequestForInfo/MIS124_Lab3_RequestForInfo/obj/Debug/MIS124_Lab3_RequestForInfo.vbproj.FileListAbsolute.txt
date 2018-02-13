@@ -1,0 +1,70 @@
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\MIS124_Lab3_RequestForInfo.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\MIS124_Lab3_RequestForInfo.pdb
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\MIS124_Lab3_RequestForInfo.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Antlr3.Runtime.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.Core.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\EntityFramework.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\System.Web.Optimization.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\System.Web.Providers.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\WebGrease.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\EntityFramework.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.Core.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.vbprojResolveAssemblyReference.cache
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.Resources.resources
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.vbproj.GenerateResource.Cache
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.pdb
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\MIS124_Lab3_RequestForInfo.dll.config
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\MIS124_Lab3_RequestForInfo.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\MIS124_Lab3_RequestForInfo.pdb
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\MIS124_Lab3_RequestForInfo.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Antlr3.Runtime.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.Core.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\EntityFramework.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\System.Web.Optimization.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\System.Web.Providers.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\WebGrease.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\EntityFramework.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.Core.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.vbprojResolveAssemblyReference.cache
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.Resources.resources
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.vbproj.GenerateResource.Cache
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.vbproj.CoreCompileInputs.cache
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.dll
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.xml
+C:\Users\CBAUser\Documents\GitHub\MIS-124\MIS124_Lab3_RequestForInfo\MIS124_Lab3_RequestForInfo\obj\Debug\MIS124_Lab3_RequestForInfo.pdb
