@@ -1,0 +1,70 @@
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\MIS124Lab2_WebBMICalculator.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\MIS124Lab2_WebBMICalculator.pdb
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\MIS124Lab2_WebBMICalculator.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Antlr3.Runtime.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.Core.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\EntityFramework.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\System.Web.Optimization.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\System.Web.Providers.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\WebGrease.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\EntityFramework.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.Core.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab4_WebBMICalculator.vbprojResolveAssemblyReference.cache
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.Resources.resources
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab4_WebBMICalculator.vbproj.GenerateResource.Cache
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.dll
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.xml
+C:\Users\velianit\Documents\Visual Studio 2012\Projects\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.pdb
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\MIS124Lab2_WebBMICalculator.dll.config
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\MIS124Lab2_WebBMICalculator.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\MIS124Lab2_WebBMICalculator.pdb
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\MIS124Lab2_WebBMICalculator.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Antlr3.Runtime.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.Core.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\EntityFramework.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\System.Web.Optimization.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\System.Web.Providers.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\WebGrease.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\EntityFramework.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.Core.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab4_WebBMICalculator.vbprojResolveAssemblyReference.cache
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.Resources.resources
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab4_WebBMICalculator.vbproj.GenerateResource.Cache
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab4_WebBMICalculator.vbproj.CoreCompileInputs.cache
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.dll
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.xml
+C:\Users\CBAUser\Desktop\mis124lab4_webbmicalculator\MIS124Lab4_WebBMICalculator\MIS124Lab2_WebBMICalculator\obj\Release\MIS124Lab2_WebBMICalculator.pdb
