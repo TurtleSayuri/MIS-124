@@ -18,7 +18,7 @@ Public Class _Default
         Dim myCookie As New HttpCookie("UserName", txtName.Text)
         myCookie.Expires = DateTime.MaxValue
         Response.Cookies.Add(myCookie)
-
+        Response.Redirect("Result.aspx?name=" & txtName.Text & "&weight=" & txtWeight.Text & "&height=" & txtHeight.Text)
     End Sub
 
     'Private Sub processCalculate()
